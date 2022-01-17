@@ -1,12 +1,12 @@
 {
   "activity": {
-    "name": "<The Bot Activity Name (that waht is the bot will type in his activity)>",
+    "name": "XTPL",
     "type": "<The Bot Activity Type (that what is the bot activity type  will be ['PLAYING', 'LISTENING', 'WATCHING', 'COMPETING'])>"
   },
   "status": "<The Bot Status (that what is the bot status will be ['dnd', 'online', 'idle])>",
 
   "domain": "<The Bot Website Domain (the dashboard domain)>",
-  "clientID": "<The Bot Id (that you will find it in the OAuth2)>",
+  "clientID": "932687780578996254",
   "clientSECRET": "<The Bot Secret (that you will find it in the OAuth2)>",
 
   "mainPrefix": "<The Bot Prefix (that what the bot will starts commands)>",
